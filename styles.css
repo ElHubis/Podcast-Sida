@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+header a{
+    color: rgba(21, 73, 230, 0.663);
+    text-decoration: none;
+    font-size: 40px;
+        
+}
+
+nav{
+    margin-left: 55%;
+    margin-top: -1.8%;
+}
+
+nav a{
+    color: rgba(21, 73, 230, 0.663);
+    text-decoration: none;
+    padding: 8%;
+    font-size: 24px;
+}
+
+.main_text{
+    width: 550px;
+    margin-top: 13%;
+    margin-left: 17%;
+}
+
+.main_text p{
+    color: rgba(21, 73, 230, 0.663);
+    font-size: 64px;
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background-color: rgba(21, 73, 230, 0.663);
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 20px;
+}
