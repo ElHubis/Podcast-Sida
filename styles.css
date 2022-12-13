@@ -1,7 +1,14 @@
 *{
-    background-color: black;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: black;
+    background-image: url(img/blixt.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
 }
 
 header{
@@ -10,7 +17,7 @@ header{
 }
 
 header a{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     text-decoration: none;
     font-size: 40px;
         
@@ -22,7 +29,7 @@ nav{
 }
 
 nav a{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     text-decoration: none;
     padding: 8%;
     font-size: 24px;
@@ -35,13 +42,13 @@ nav a{
 }
 
 .main_text p{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     font-size: 64px;
 }
 
 button{
     color: rgb(0, 0, 0);
-    background-color: rgba(21, 73, 230, 0.663);
+    background-color: rgb(55, 115, 186);
     padding: 15px;
     border-radius: 12px;
     font-size: 20px;
@@ -56,17 +63,17 @@ button a{
 .footer{
     height: 375px;
     padding-top: 2%;
-    margin-top: 10%;
+    margin-top: 12%;
     background-color: rgb(9, 9, 9);
 }
 .footer h1{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     margin-left: 10%;
     background-color: rgb(9, 9, 9);
 }
 
 .footer a{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     text-decoration: none;
     font-size: 24px;
     font-weight: bold;
@@ -81,7 +88,7 @@ button a{
 }
 
 .footer h2{
-    color: rgba(21, 73, 230, 0.663);
+    color: rgb(55, 115, 186);
     margin-left: 70%;
     margin-top: -4%;
     background-color: rgb(9, 9, 9);
