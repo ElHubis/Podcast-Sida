@@ -4,7 +4,6 @@
 }
 
 body{
-<<<<<<< Updated upstream
     background-color: black;
     background-image: url(img/blixt.jpg);
     background-repeat: no-repeat;
@@ -12,11 +11,6 @@ body{
 
 }
 
-=======
-    background: url(https://i.gifer.com/Njy2.gif);
-background-size: cover;
-}
->>>>>>> Stashed changes
 header{
     margin-top: 4%;
     margin-left: 5%;
