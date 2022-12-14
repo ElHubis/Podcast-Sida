@@ -24,6 +24,27 @@ nav{
     margin-top: -1.8%;
 }
 
+.episodes{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 18%;
+    margin-top: 5%;
+    gap: 50px 50px;
+    width: 60%;
+
+}
+
+.episode{
+    background-color: rgba(27, 27, 27, 0.523);
+    padding: 20px;
+    border-radius: 12px;
+    color: white;
+}
+
+.episode h1{
+    color: rgb(55, 115, 186);;
+}
+
 nav a{
     color: rgb(55, 115, 186);
     text-decoration: none;
