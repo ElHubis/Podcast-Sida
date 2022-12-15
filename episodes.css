@@ -37,8 +37,13 @@ nav a{
     margin-left: 18%;
     margin-top: 5%;
     gap: 50px 50px;
-    width: 60%;
+    width: 30%;
 
+}
+
+.episode a{
+    text-decoration: none;
+    color: white;
 }
 
 .episode{
