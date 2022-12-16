@@ -49,12 +49,13 @@ nav a{
 .episode{
     background-color: rgba(27, 27, 27, 0.523);
     padding: 20px;
+    border: solid 1px rgb(55, 115, 186);
     border-radius: 12px;
     color: white;
 }
 
 .episode h1{
-    color: rgb(55, 115, 186);;
+    color: rgb(55, 115, 186);
 }
 
 .footer{
