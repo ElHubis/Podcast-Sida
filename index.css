@@ -79,15 +79,24 @@ input{
     margin-top: -2.5%;
 }
 
-.footer h2{
-    color: rgb(55, 115, 186);
-    margin-left: 70%;
+.footer_contact {
     margin-top: -4%;
+    margin-left: 70%;
+    color: white;
+}
+
+.footer_contact h2{
+    color: rgb(55, 115, 186);
+}
+
+.footer_contact h3{
+    font-weight: normal;
+    margin-top: 2%;
 }
 
 .footer p{
     width: 300px;
     color: rgb(255, 255, 255);
-    margin-top: 2%;
+    margin-top: -3%;
     margin-left: 10%;
 }
