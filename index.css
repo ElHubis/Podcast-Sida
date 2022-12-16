@@ -46,18 +46,14 @@ nav a{
     font-size: 64px;
 }
 
-button{
+input{
     background-color: rgb(55, 115, 186);
     padding: 15px;
     border-radius: 12px;
     font-size: 20px;
+    cursor: pointer;
 }
 
-button a{
-    color: black;
-    background-color: rgba(21, 73, 230, 0);
-    text-decoration: none;
-}
 
 .footer{
     height: 375px;
